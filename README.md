@@ -1,6 +1,6 @@
-- Hi,im Seong👋
+- Hi,im a guy
 - I’m currently learning lua🌙
-- 📫 How to reach me: Seong#0001
+- 📫 How to reach me: j0st.exhausted@gmail.com
 - Developing Kraken-Ware🐙
 <!---
 Qxey/Qxey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
